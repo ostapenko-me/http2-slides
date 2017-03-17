@@ -1,0 +1,23 @@
+{
+  "name": "http2-slides",
+  "version": "1.0.0",
+  "description": "Deep view into http/2",
+  "main": "index.html",
+  "scripts": {
+    "start": "reload -b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOPTE3/http2-slides.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOPTE3/http2-slides/issues"
+  },
+  "homepage": "https://github.com/KOPTE3/http2-slides#readme",
+  "devDependencies": {
+    "reload": "^1.1.1"
+  }
+}
